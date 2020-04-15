@@ -23,6 +23,7 @@
     "mysql": "^2.18.1",
     "proxy-addr": "^2.0.6",
     "reflect-metadata": "^0.1.13",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.16",
+    "sqlite3": "^4.1.1"
   }
 }
